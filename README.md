@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=안녕&fontSize=20" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=하세요&fontSize=20" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlavnf)](https://github.com/anuraghazra/github-readme-stats)
 
